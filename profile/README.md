@@ -9,10 +9,3 @@ evaluated to create e.g. pdfs, slides, or exams.
 
 Currently, the project targets the Go programming language.
 Other languages may follow.
-
-The first goal is to create some prototypes that parse source files and develop
-a suitable format for the language ised in the code comments.
-Source2Course will make heavy use of LaTeX and there will be some Repos containing
-LaTex packages.
-
-For more information, see the [Project Management repo](https://github.com/src2crs/pm).
